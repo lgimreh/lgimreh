@@ -1,3 +1,3 @@
 # lgimreh.github.io
 Portfolio
-#basically just my portfolio website
+... basically just my portfolio website
